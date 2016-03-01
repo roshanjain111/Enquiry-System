@@ -1,2 +1,2 @@
-# Enquiry-System
+# Enquirysystem
 Enquiry application for classes
